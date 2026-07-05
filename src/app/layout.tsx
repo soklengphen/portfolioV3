@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
-@//ts-expect-error
 import "./globals.css";
 import { ThemeProvider } from "@/components/darkmode/theme-provider";
 
